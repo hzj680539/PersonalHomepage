@@ -8,32 +8,32 @@
     <link rel="stylesheet" href="../css/plugins/jquery.mCustomScrollbar.min.css">
 </head>
 <body>
-    <header></header>
-    <section class="music-dashboard" id="music-dashboard">
-        <div class="music-board hide">
-            <div class="music-board-left"></div>
-            <div class="music-board-right">
-                <div class="music-info">
-                    <div id="song" class="song">我的歌曲</div>
-                    <div id="singer" class="singer">我是歌手</div>
-                </div>
-                <div class="display-music-lyric" id="music-lyric"></div>
+<header></header>
+<section class="music-dashboard" id="music-dashboard">
+    <div class="music-board hide">
+        <div class="music-board-left"></div>
+        <div class="music-board-right">
+            <div class="music-info">
+                <div id="song" class="song">我的歌曲</div>
+                <div id="singer" class="singer">我是歌手</div>
             </div>
+            <div class="display-music-lyric" id="music-lyric"></div>
         </div>
-    </section>
-    <section class="music-grid-layout" id="music-grid-layout"></section>
-    <div class="slide-icon slide-left hide" title="show musics"></div>
-    <div class="slide-icon slide-right hide" title="hide musics"></div>
-    <div class="music-play hide">
-        <audio src="" id="music-audio" autoplay></audio>
     </div>
-    <footer></footer>
+</section>
+<section class="music-grid-layout" id="music-grid-layout"></section>
+<div class="slide-icon slide-left hide" title="show musics"></div>
+<div class="slide-icon slide-right hide" title="hide musics"></div>
+<div class="music-play hide">
+    <audio src="" id="music-audio" autoplay></audio>
+</div>
+<footer></footer>
 </body>
 <script data-main="../script/main.js" src="../script/lib/require.min.js"></script>
 <script type="text/html" id="musicBlockTmp">
     <div class="column">
         {{each music as mus}}
-        <div class="music-block" data-src="{{song_path}}{{mus.song}}" data-song="{{mus.name}}" data-singer="{{singer}}">
+        <div class="music-block" data-src="{{mus.songUrl}}" data-song="{{mus.name}}" data-singer="{{singer}}">
             <div class="music-singer">
                 <img src="{{photo_path}}{{mus.photo}}" alt="" class="img">
             </div>

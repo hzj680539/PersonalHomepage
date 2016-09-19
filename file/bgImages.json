@@ -1,0 +1,48 @@
+{
+  "repeat":
+      ["../image/bgImages/repeat/grid-green.png",
+        "../image/bgImages/repeat/grid-white.gif",
+        "../image/bgImages/repeat/water.jpg"
+      ],
+  "fullScreen":
+      [
+        {
+          "name": "john",
+          "url": "../image/bgImages/John.jpg"
+        },
+        {
+          "name": "scenery",
+          "url": "../image/bgImages/John.jpg"
+        }
+      ],
+  "musicBgImages": [
+    {
+      "singer": "王菲",
+      "picture": "../image/music/dashboard/王菲.jpg"
+    },
+    {
+      "singer": "曲婉婷",
+      "picture": "../image/music/dashboard/曲婉婷.jpg"
+    },
+    {
+      "singer": "邓紫棋",
+      "picture": "../image/music/dashboard/GEM-1.jpg"
+    },
+    {
+      "singer": "邓紫棋",
+      "picture": "../image/music/dashboard/邓紫棋.jpg"
+    },
+    {
+      "singer": "刘德华",
+      "picture": "../image/music/dashboard/刘德华.jpg"
+    },
+    {
+      "singer": "薛之谦",
+      "picture": "../image/music/dashboard/薛之谦.jpg"
+    },
+    {
+      "singer": "刘若英",
+      "picture": "../image/music/dashboard/刘若英.jpg"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>This is my house!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="stylesheet" href="../css/basic.css">
+    <link rel="stylesheet" href="../css/navigation.css">
+    <link rel="stylesheet" href="../css/site-nav.css">
+</head>
+<body>
+    <header></header>
+    <section class="container">
+        <section class="left-side" id="left-side"></section>
+        <section class="right-side">
+            <article class="content">
+                <div class="site-nav" id="site-nav"></div>
+            </article>
+        </section>
+    </section>
+    <footer></footer>
+</body>
+<script type="text/html" id="navigationTmp">
+    <ul>
+        {{each navigation as nav}}
+        <li><a href="#{{nav.file.split('.')[0]}}" data-file="{{nav.file}}"><div>{{nav.name}}</div></a></li>
+        {{/each}}
+    </ul>
+</script>
+<script type="text/html" id="itemTmp">
+    <ul>
+        {{each navItems as item}}
+        <li class="first-level">
+            <ul>
+                <li class="title second-level"><a href="{{item.url || 'javascript:void(0);'}}" target="_blank"><div>{{item.name}}</div></a></li>
+                {{if item.relativeSite}}
+                {{each item.relativeSite as subItem}}
+                <li class="second-level"><a href="{{subItem.url}}" target="_blank"><div>{{subItem.name}}</div></a></li>
+                {{/each}}
+                {{/if}}
+            </ul>
+            {{/each}}
+        </li>
+    </ul>
+</script>
+<script data-main="../script/main.js" src="../script/lib/require.min.js"></script>
+</html>

@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Tutorial",
+    "relativeSite": [
+      {
+        "name": "w3schools",
+        "url": "http://www.w3schools.com/js/"
+      },
+      {
+        "name": "w3school",
+        "url": "http://www.w3school.com.cn/js/"
+      },
+      {
+        "name": "MDN",
+        "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"
+      }
+    ]
+  },
+  {
+    "name": "Personal",
+    "relativeSite": [
+      {
+        "name": "阮一峰",
+        "url": "http://javascript.ruanyifeng.com/"
+      },
+      {
+        "name": "廖雪峰",
+        "url": "http://www.liaoxuefeng.com/"
+      }
+    ]
+  },
+  {
+    "name": "ES6",
+    "relativeSite": [
+      {
+        "name": "阮一峰-ES6",
+        "url": "http://es6.ruanyifeng.com/#docs/intro"
+      }
+    ]
+  },
+]

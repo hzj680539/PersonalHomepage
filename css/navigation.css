@@ -1,0 +1,8 @@
+/* navigation css */
+.navigation { position: fixed; top: 0; left: 0; z-index: 99; width: 100%; background: rgba(0, 0, 0, 0.6); opacity: 0.95; }
+.navigation ul li { list-style: none; display: inline-block; padding: 10px 5px; }
+.navigation ul li a { color: #fff; font-size: 20px; font-weight: bold; text-decoration: none; }
+.navigation ul li a:hover { color: #e6e6e6; }
+.navigation ul li:hover { background: #40bf40; }
+
+/*# sourceMappingURL=navigation.css.map */

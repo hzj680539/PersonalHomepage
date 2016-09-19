@@ -1,0 +1,32 @@
+[
+  {
+    "name": "运动",
+    "relativeSite": [
+      {
+        "name": "VS网",
+        "url": "http://www.vs.cm/"
+      },
+      {
+        "name": "UFC",
+        "url": "http://www.ufc.com/"
+      },
+      {
+        "name": "昆仑决",
+        "url": "http://www.kunlunjue.com/"
+      }
+    ]
+  },
+{
+    "name": "文章类",
+    "relativeSite": [
+      {
+        "name": "句子迷",
+        "url": "http://www.juzimi.com/"
+      },
+      {
+        "name": "一点点语录网",
+        "url": "http://www.yikexun.cn/"
+      }
+    ]
+  }
+]

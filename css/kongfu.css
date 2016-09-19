@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* kongfu css*/
+body { background: url("../image/bgImages/John.jpg") center center/100% no-repeat fixed; background-size: cover; }
+
+section { width: 1280px; min-width: 1280px; margin: 0 auto; overflow: hidden; }
+
+.introduce { position: relative; margin-top: 46px; border-top-left-radius: 20px; border-top-right-radius: 20px; background: rgba(255, 255, 255, 0.9); }
+.introduce .intro-left { float: left; width: 900px; padding: 20px 20px 20px 50px; font-family: 'Simsun', 'Microsoft YaHei UI', '瀹嬩綋'; font-size: 1.2em; font-weight: bold; }
+.introduce .intro-left ul li { padding: 5px; }
+.introduce .intro-left .sign-name { position: absolute; top: 20px; right: 150px; font-family: name; font-size: 40px; color: #8a6d3b; opacity: 0.8; }
+.introduce .intro-right { float: right; width: 250px; opacity: 0.1; margin-right: 10px; }
+
+.image-layout { border-left: 3px solid rgba(255, 255, 255, 0.9); border-right: 3px solid rgba(255, 255, 255, 0.9); margin-bottom: -2px; background: rgba(0, 0, 0, 0.8); background-clip: content-box; width: 1274px; min-width: 1274px; }
+.image-layout .title { width: 100%; padding: 10px; font-family: titleFont; font-size: 30px; font-weight: bold; text-align: center; color: red; letter-spacing: 1px; background: url(../image/kongfu/lady.jpg) 0% 20%; }
+.image-layout .column { display: inline-block; height: 1610px; overflow-y: hidden; }
+.image-layout .column > div { margin-bottom: -1px; }
+.image-layout .column > div img { width: 100%; }
+.image-layout .column-1 { width: 300px; }
+.image-layout .column-2 { width: 200px; }
+.image-layout .column-3 { width: 418px; }
+.image-layout .column-4 { width: 350px; }
+
+.movie { width: 1274px; min-width: 1274px; border-left: 3px solid rgba(255, 255, 255, 0.9); border-right: 3px solid rgba(255, 255, 255, 0.9); background: rgba(255, 255, 255, 0.9); background-clip: content-box; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; }
+.movie .title { width: 100%; padding: 10px; font-family: titleFont; font-size: 30px; font-weight: bold; text-align: center; color: red; letter-spacing: 1px; opacity: 0.9; background: url(../image/kongfu/lady.jpg) 0% 56%; }
+.movie .poster { display: inline-block; vertical-align: middle; width: 200px; margin: 27px; box-shadow: 8px 8px 10px gray; overflow: hidden; }
+.movie .poster img { position: relative; top: 3px; width: 100%; cursor: pointer; }
+.movie .white-blank { height: 50px; }
+
+.ml-2 { margin-left: 2px; }
+
+@font-face { font-family: 'titleFont'; src: url("../font/raider_crusader/raidercrusader.ttf") format("truetype");
+  /*non-IE*/
+font-weight: normal; font-style: normal; }
+@font-face { font-family: 'name'; src: url("../font/raider_crusader/CHINESETAKEAWAY.ttf") format("truetype");
+  /*non-IE*/
+font-weight: normal; font-style: normal; }
+
+/*# sourceMappingURL=kongfu.css.map */

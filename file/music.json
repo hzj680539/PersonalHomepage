@@ -1,0 +1,210 @@
+[
+  {
+    "singer": "王菲",
+    "song_path": "../music/Faye/",
+    "photo_path": "../image/music/Faye/",
+    "music": [{
+        "id": 1,
+        "name": "我愿意",
+        "song": "王菲 - 我愿意.mp3",
+        "photo": "01.png"
+      },{
+        "id": 2,
+        "name": "匆匆那年",
+        "song": "王菲 - 匆匆那年.mp3",
+        "photo": "02.png"
+      },{
+        "id": 3,
+        "name": "清风徐来",
+        "song": "王菲 - 清风徐来.mp3",
+        "photo": "03.png"
+      },{
+        "id": 4,
+        "name": "红豆",
+        "song": "王菲 - 红豆.mp3",
+        "photo": "04.png"
+      }]
+  },
+  {
+    "singer": "王菲",
+    "song_path": "../music/Faye/",
+    "photo_path": "../image/music/Faye/",
+    "music": [{
+      "id": 1,
+      "name": "矜持",
+      "song": "王菲 - 矜持.mp3",
+      "photo": "05.png"
+    },{
+      "id": 2,
+      "name": "致青春",
+      "song": "王菲 - 致青春.mp3",
+      "photo": "06.png"
+    },{
+      "id": 3,
+      "name": "流年",
+      "song": "王菲 - 流年.mp3",
+      "photo": "07.png"
+    },{
+      "id": 4,
+      "name": "暧昧",
+      "song": "王菲 - 暧昧.mp3",
+      "photo": "08.png"
+    }]
+  },
+  {
+    "singer": "刘德华",
+    "song_path": "../music/刘德华/",
+    "photo_path": "../image/music/刘德华/",
+    "music": [{
+      "id": 1,
+      "name": "爱你一万年",
+      "song": "刘德华 - 爱你一万年.mp3",
+      "photo": "01.png"
+    },{
+      "id": 5,
+      "name": "冰雨",
+      "song": "刘德华 - 冰雨.mp3",
+      "photo": "02.png"
+    },{
+      "id": 6,
+      "name": "世界第一等",
+      "song": "刘德华 - 世界第一等.mp3",
+      "photo": "03.png"
+    },{
+      "id": 7,
+      "name": "忘情水",
+      "song": "刘德华 - 忘情水.mp3",
+      "photo": "04.png"
+    }]
+  },
+  {
+    "singer": "曲婉婷",
+    "song_path": "../music/曲婉婷/",
+    "photo_path": "../image/music/曲婉婷/",
+    "music": [{
+        "id": 1,
+        "name": "我的歌声里",
+        "song": "我的歌声里.mp3",
+        "photo": "01.png"
+      },{
+        "id": 2,
+        "name": "没有什么不同",
+        "song": "没有什么不同.mp3",
+        "photo": "02.png"
+      },{
+        "id": 3,
+        "name": "爱的海洋",
+        "song": "爱的海洋.mp3",
+        "photo": "03.png"
+      },{
+        "id": 4,
+        "name": "快活",
+        "song": "快活.mp3",
+        "photo": "04.png"
+      }]
+  },
+  {
+    "singer": "邓紫棋",
+    "song_path": "../music/GEM/",
+    "photo_path": "../image/music/GEM/",
+    "music": [{
+      "id": 1,
+      "name": "后会无期",
+      "song": "G.E.M.邓紫棋 - 后会无期.mp3",
+      "photo": "01.png"
+    },{
+      "id": 2,
+      "name": "你不是真正的快乐",
+      "song": "G.E.M.邓紫棋 - 你不是真正的快乐.mp3",
+      "photo": "02.png"
+    },{
+      "id": 3,
+      "name": "喜欢你",
+      "song": "G.E.M.邓紫棋 - 喜欢你.mp3",
+      "photo": "03.png"
+    },{
+      "id": 4,
+      "name": "是否",
+      "song": "G.E.M.邓紫棋 - 是否.mp3",
+      "photo": "04.png"
+    }]
+  },
+  {
+    "singer": "邓紫棋",
+    "song_path": "../music/GEM/",
+    "photo_path": "../image/music/GEM/",
+    "music": [{
+      "id": 1,
+      "name": "多远都要在一起",
+      "song": "G.E.M.邓紫棋 - 多远都要在一起.mp3",
+      "photo": "05.png"
+    },{
+      "id": 2,
+      "name": "回忆的沙漏",
+      "song": "G.E.M.邓紫棋 - 回忆的沙漏.mp3",
+      "photo": "06.png"
+    },{
+      "id": 3,
+      "name": "来自天堂的魔鬼",
+      "song": "G.E.M.邓紫棋 - 来自天堂的魔鬼.mp3",
+      "photo": "07.png"
+    },{
+      "id": 4,
+      "name": "泡沫",
+      "song": "G.E.M.邓紫棋 - 泡沫.mp3",
+      "photo": "08.png"
+    }]
+  },
+  {
+    "singer": "薛之谦",
+    "song_path": "../music/薛之谦/",
+    "photo_path": "../image/music/薛之谦/",
+    "music": [{
+      "id": 1,
+      "name": "初学者",
+      "song": "薛之谦 - 初学者.mp3",
+      "photo": "01.png"
+    },{
+      "id": 2,
+      "name": "认真的雪",
+      "song": "薛之谦 - 认真的雪.mp3",
+      "photo": "02.png"
+    },{
+      "id": 3,
+      "name": "绅士",
+      "song": "薛之谦 - 绅士.mp3",
+      "photo": "03.png"
+    },{
+      "id": 4,
+      "name": "几个你",
+      "song": "薛之谦 - 几个你.mp3",
+      "photo": "04.png"
+    }]
+  },
+  {
+    "singer": "刘若英",
+    "song_path": "../music/刘若英/",
+    "photo_path": "../image/music/刘若英/",
+    "music": [{
+      "id": 1,
+      "name": "当爱在靠近",
+      "song": "刘若英 - 当爱在靠近.mp3",
+      "photo": "01.png"
+    },{
+      "id": 2,
+      "name": "为爱痴狂",
+      "song": "刘若英 - 为爱痴狂.mp3",
+      "photo": "05.png"
+    },{
+      "id": 3,
+      "name": "很爱很爱你",
+      "song": "刘若英 - 很爱很爱你.mp3",
+      "photo": "03.png"
+    },{
+      "id": 4,
+      "name": "后来",
+      "song": "刘若英 - 后来.mp3",
+      "photo": "04.png"
+    }]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Oncall",
+    "url": "http://oncall.isesol.com/",
+    "url2": "http://oncall.i5sesol.com/",
+    "pictureUrl": "../image/project/oncall.png",
+    "picThumbNailUrl": "../image/project/oncall-thumbnail.png",
+    "description": "沈阳机床报修服务系统。沈机用户可以在手机APP，微信端或者致电400客服进行机床报修。管理人员在该系统中对报修的机床统一管理，分派工程师到达现场进行维修和服务。"
+  },
+  {
+    "name": "medicalTronik",
+    "url": "https://www.medicaltronik.ca/fr/",
+    "pictureUrl": "../image/project/medical.png",
+    "picThumbNailUrl": "../image/project/medical-thumbnail.png",
+    "description": "加拿大医疗器械销售网站。售卖医疗健身化学方面的用品。可以在线支付也可以货到付款，公司线下门店配送人员专门配送，安全放心，速度保证。"
+  },
+  {
+    "name": "拉木加个人主页",
+    "url": "http://lhamo-kyap.com/",
+    "pictureUrl": "../image/project/lhamo.png",
+    "picThumbNailUrl": "../image/project/lhamo-thumbnail.png",
+    "description": "拉木加的个人展示博客。拉木加，民谣歌手，在上海有自己的音乐团队，酒吧驻唱。曲风淳朴，有着中国西部音乐特有的朴实气息。"
+  },
+  {
+    "name": "arteau",
+    "url": "http://www.arteau.com/",
+    "projectUrl": "http://arteau.sednove.ca/",
+    "pictureUrl": "../image/project/arteau.png",
+    "picThumbNailUrl": "../image/project/arteau-thumbnail.png",
+    "description": "法国艺术类商品销售网站。如果你想购买艺术品，来这里！这里有很多你看到就想得到的艺术品，绝对值得拥有！"
+  },
+  {
+    "name": "ZappyJobs",
+    "url": "https://zappyjobs.com/",
+    "projectUrl": "http://zappy.sednove.ca/",
+    "pictureUrl": "../image/project/zappy.png",
+    "picThumbNailUrl": "../image/project/zappy-thumbnail.png",
+    "description": "法国业余时间兼职网站。一对妹子创办的网站，想法挺好，就是资金一直跟不上，网站建设进度走走停停，也不知道现在走到哪一步了。。。加油！"
+  },
+  {
+    "name": "CollegeMv",
+    "url": "http://cmv.sednove.ca/",
+    "projectUrl": "http://cmv.sednove.ca/",
+    "pictureUrl": "../image/project/cmv.png",
+    "picThumbNailUrl": "../image/project/cmv-thumbnail.png",
+    "description": "加拿大某服装学院网站。在中国，学校网站大都一个模子刻出来的，板板整整。国外的大学网站设计确实技高一筹，不受羁绊，简约中不失炫酷。"
+  },
+  {
+    "name": "alce",
+    "url": "http://alce.ca/",
+    "pictureUrl": "../image/project/alce.png",
+    "picThumbNailUrl": "../image/project/alce-thumbnail.png",
+    "description": "法国某外卖网站。乘着外卖的东风，法国alce外卖也是异军突起，该外卖支持PC端和手机端进行订餐。"
+  },
+  {
+    "name": "sednove",
+    "url": "http://www.sednove.com/",
+    "pictureUrl": "../image/project/sednove.png",
+    "picThumbNailUrl": "../image/project/sednove-thumbnail.png",
+    "description": "SEDNOVE官方网站。多个国家的程序员联合组建的建站公司，公司拥有着自己的语言snCode，该语言的设计者是MySQL的开发者之一。"
+  }
+]

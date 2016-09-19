@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>This is my house!</title>
+    <link rel="stylesheet" href="../css/basic.css">
+    <link rel="stylesheet" href="../css/music.css">
+    <link rel="stylesheet" href="../css/project.css">
+    <link rel="stylesheet" href="../css/plugins/lightbox.css">
+</head>
+<body>
+    <div class="header-bg"></div>
+    <header></header>
+    <section class="page-title">
+        <div class="title">What i have done</div>
+    </section>
+    <section class="project-board" id="project-board"></section>
+    <section>
+        <div class="project-end">
+            <div class="sign">on road</div>
+        </div>
+    </section>
+    <footer></footer>
+</body>
+<script data-main="../script/main.js" src="../script/lib/require.min.js"></script>
+<script type="text/html" id="projectTmp">
+    {{each projects as project}}<div class="project">
+        <div class="project-picture">
+            <a href="{{project.pictureUrl}}" data-lightbox="picture" data-title="{{project.name}}"><img src="{{project.picThumbNailUrl}}" alt="" class="img"></a>
+        </div><!-- 呵呵 inline-block
+     --><div class="project-info">
+            <div class="project-name">
+                <span class="hard-title">项目：</span>
+                <span class="name"><a href="{{project.url}}" target="_blank" title="go ahead">{{project.name}}</a></span>
+            </div>
+            <div class="project-short-intro">
+                <div class="hard-title">简介：</div>
+                <div class="short-intro">
+                    {{project.description}}
+                </div>
+            </div>
+        </div>
+    </div>{{/each}}
+</script>
+</html>

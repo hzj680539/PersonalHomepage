@@ -1,0 +1,10 @@
+html, body, header, section, aside, footer, article, ul, li { margin: 0; padding: 0; }
+
+/* common css */
+.show { display: inline-block; }
+
+.hide { display: none; }
+
+.section { overflow: hidden; }
+
+/*# sourceMappingURL=basic.css.map */

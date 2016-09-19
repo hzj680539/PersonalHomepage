@@ -1,0 +1,198 @@
+/* Music dashboard css */
+.music-dashboard {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  .music-board {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background: rgba(40%, 80%, 40%, .3);
+    .music-board-left {
+      display: inline-block;
+      vertical-align: top;
+      width: 200px;
+      height: 400px;
+      background: rgba(40%, 80%, 40%, .4);
+    }
+    .music-board-right {
+      display: inline-block;
+      vertical-align: top;
+      text-align: center;
+      font-family: "Microsoft YaHei UI", Arial;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      background: rgba(40%, 80%, 40%, .3);
+      .music-info {
+        color: #fff;
+        border-bottom: 1px solid #000;
+        .song {
+          font-size: 18px;
+          font-weight: bold;
+          letter-spacing: 2px;
+          padding: 4px;
+        }
+        .singer {
+          font-size: 14px;
+          margin-left: 180px;
+        }
+      }
+      .display-music-lyric {
+        font-size: 14px;
+        width: 500px;
+        height: 500px;
+        padding: 20px;
+        overflow-x: hidden;
+        overflow-y: auto;
+        .active {
+          color: purple;
+          font-size: 20px;
+        }
+        .in-active {
+          color: gray;
+        }
+      }
+    }
+  }
+  .hide {
+    display: none;
+  }
+}
+.music-grid-layout {
+  width: 1280px;
+  margin: auto;
+  padding-top: 50px;
+  //background: rgba(255, 255, 255, .5);
+  .column {
+    display: inline-block;
+    margin: 0 10px;
+    text-align: center;
+    .music-block {
+      position: relative;
+      margin-bottom: 10px;
+      animation: show 2s ease 1;
+      box-shadow: 5px 5px 10px #000;
+      .music-singer {
+        width: 140px;
+        height: 140px;
+
+        img {
+          width: 100%;
+          height: 100%;
+          -webkit-border-radius: 5px;
+          -moz-border-radius: 5px;
+          border-radius: 5px;
+        }
+      }
+      .music-intro {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        cursor: pointer;
+        text-align: center;
+        font-family: 'Microsoft YaHei UI', Arial, sans-serif;
+        background: rgba(0, 0, 0, .3);
+        overflow: hidden;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        .singer {
+          color: white;
+          white-space: nowrap;
+        }
+      }
+      .hover-img {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        img {
+          margin-top: 40px;
+          width: 40%;
+        }
+      }
+      .icon-start {
+
+      }
+      .icon-stop {
+
+      }
+      &:hover {
+        .hover-img {
+          cursor: pointer;
+          opacity: .8;
+          background: rgba(0, 0, 0, .5);
+        }
+        .icon-start {
+          display: block;
+        }
+      }
+    }
+    .ease-hide {
+      animation: hide 2s ease 1;
+    }
+  }
+}
+.slide-icon {
+  position: absolute;
+  top: 50vh;
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+  -webkit-transform: translateY(-40px);
+  -moz-transform: translateY(-40px);
+  -ms-transform: translateY(-40px);
+  -o-transform: translateY(-40px);
+  transform: translateY(-40px);
+  -webkit-background-size: 100%;
+  background-size: 100%;
+  opacity: 0.5;
+  &:hover {
+    opacity: 1;
+  }
+}
+.slide-left {
+  left: -12px;
+  background: url(../image/icons/right.png) center no-repeat;
+}
+.slide-right {
+  right: -12px;
+  background: url(../image/icons/left.png) center no-repeat;
+}
+/* music scroll bar custom css */
+.mCS-my-theme.mCSB_scrollTools {
+  .mCSB_dragger {
+    .mCSB_dragger_bar {
+      background-color: green;
+      &:hover {
+        background-color: green;
+      }
+    }
+  }
+  .mCSB_draggerRail{
+    background-color: greenyellow;
+  }
+}
+@keyframes show {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes hide {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}

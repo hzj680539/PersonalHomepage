@@ -1,209 +1,209 @@
 [
   {
     "singer": "王菲",
-    "song_path": "../music/Faye/",
+    "songUrl_path": "../music/Faye/",
     "photo_path": "../image/music/Faye/",
     "music": [{
-        "id": 1,
-        "name": "我愿意",
-        "song": "王菲 - 我愿意.mp3",
-        "photo": "01.png"
-      },{
-        "id": 2,
-        "name": "匆匆那年",
-        "song": "王菲 - 匆匆那年.mp3",
-        "photo": "02.png"
-      },{
-        "id": 3,
-        "name": "清风徐来",
-        "song": "王菲 - 清风徐来.mp3",
-        "photo": "03.png"
-      },{
-        "id": 4,
-        "name": "红豆",
-        "song": "王菲 - 红豆.mp3",
-        "photo": "04.png"
-      }]
+      "id": 1,
+      "name": "我愿意",
+      "songUrl": "http://win.web.ra03.sycdn.kuwo.cn/a106447709efea6f1606d31fd7ff6e50/57e00b69/resource/a2/48/32/48/1186376292.aac",
+      "photo": "01.png"
+    },{
+      "id": 2,
+      "name": "匆匆那年",
+      "songUrl": "http://win.web.rf03.sycdn.kuwo.cn/e0a6781f14a8804a0491b2057a3423f8/57e00c1b/resource/a1/74/27/1847141769.aac",
+      "photo": "02.png"
+    },{
+      "id": 3,
+      "name": "清风徐来",
+      "songUrl": "http://win.web.rg03.sycdn.kuwo.cn/7a97e0a0625a733aaaf94550cf1bc075/57e00ca4/resource/a2/62/37/4131122139.aac",
+      "photo": "03.png"
+    },{
+      "id": 4,
+      "name": "红豆",
+      "songUrl": "http://win.web.ra03.sycdn.kuwo.cn/7bff871d7f5e60c54fff69a21bec78ea/57e00cd1/resource/a3/48/50/11/1862837312.aac",
+      "photo": "04.png"
+    }]
   },
   {
     "singer": "王菲",
-    "song_path": "../music/Faye/",
+    "songUrl_path": "../music/Faye/",
     "photo_path": "../image/music/Faye/",
     "music": [{
       "id": 1,
       "name": "矜持",
-      "song": "王菲 - 矜持.mp3",
+      "songUrl": "http://win.web.ra03.sycdn.kuwo.cn/3f68b32131b8aac5603ff10dd6006251/57e00d2d/resource/a1/48/98/12/616868402.aac",
       "photo": "05.png"
     },{
       "id": 2,
       "name": "致青春",
-      "song": "王菲 - 致青春.mp3",
+      "songUrl": "http://win.web.re03.sycdn.kuwo.cn/55c5be0e379b8fbcd5852b63f0d49287/57e00d50/resource/a1/88/89/357586473.aac",
       "photo": "06.png"
     },{
       "id": 3,
       "name": "流年",
-      "song": "王菲 - 流年.mp3",
+      "songUrl": "http://win.web.ra03.sycdn.kuwo.cn/460ef4c69ea0335cea85bd3b29c5b443/57e00d7c/resource/a1/48/56/70/1744331959.aac",
       "photo": "07.png"
     },{
       "id": 4,
       "name": "暧昧",
-      "song": "王菲 - 暧昧.mp3",
+      "songUrl": "http://win.web.ra03.sycdn.kuwo.cn/b1c303cf137298914d5a883ded6648a6/57e00d91/resource/a2/48/32/68/3700189237.aac",
       "photo": "08.png"
     }]
   },
   {
     "singer": "刘德华",
-    "song_path": "../music/刘德华/",
+    "songUrl_path": "../music/刘德华/",
     "photo_path": "../image/music/刘德华/",
     "music": [{
       "id": 1,
       "name": "爱你一万年",
-      "song": "刘德华 - 爱你一万年.mp3",
+      "songUrl": "ttp://win.web.rh03.sycdn.kuwo.cn/e150a861263195a44c0ed3d8a9caf904/57e00dd8/resource/a2/38/45/3083368191.aac",
       "photo": "01.png"
     },{
       "id": 5,
       "name": "冰雨",
-      "song": "刘德华 - 冰雨.mp3",
+      "songUrl": "http://win.web.rh03.sycdn.kuwo.cn/62f625ea9681d3889ff91ad323db079d/57e00e1e/resource/a1/77/29/3591866723.aac",
       "photo": "02.png"
     },{
       "id": 6,
       "name": "世界第一等",
-      "song": "刘德华 - 世界第一等.mp3",
+      "songUrl": "http://win.web.rb03.sycdn.kuwo.cn/f71776e6dccab4c0c56453c9c7c872b9/57e00e50/resource/a1/49/16/984666524.aac",
       "photo": "03.png"
     },{
       "id": 7,
       "name": "忘情水",
-      "song": "刘德华 - 忘情水.mp3",
+      "songUrl": "http://win.web.ra03.sycdn.kuwo.cn/8a1f3de04c9f3b29020491f639a1dd02/57e00e98/resource/a1/48/19/86/54377532.aac",
       "photo": "04.png"
     }]
   },
   {
     "singer": "曲婉婷",
-    "song_path": "../music/曲婉婷/",
+    "songUrl_path": "../music/曲婉婷/",
     "photo_path": "../image/music/曲婉婷/",
     "music": [{
-        "id": 1,
-        "name": "我的歌声里",
-        "song": "我的歌声里.mp3",
-        "photo": "01.png"
-      },{
-        "id": 2,
-        "name": "没有什么不同",
-        "song": "没有什么不同.mp3",
-        "photo": "02.png"
-      },{
-        "id": 3,
-        "name": "爱的海洋",
-        "song": "爱的海洋.mp3",
-        "photo": "03.png"
-      },{
-        "id": 4,
-        "name": "快活",
-        "song": "快活.mp3",
-        "photo": "04.png"
-      }]
-  },
-  {
-    "singer": "邓紫棋",
-    "song_path": "../music/GEM/",
-    "photo_path": "../image/music/GEM/",
-    "music": [{
       "id": 1,
-      "name": "后会无期",
-      "song": "G.E.M.邓紫棋 - 后会无期.mp3",
+      "name": "我的歌声里",
+      "songUrl": "http://win.web.ra03.sycdn.kuwo.cn/914dda18e46338b75b32e398ad5a96d6/57e00ec9/resource/a2/25/19/1724613235.aac",
       "photo": "01.png"
     },{
       "id": 2,
-      "name": "你不是真正的快乐",
-      "song": "G.E.M.邓紫棋 - 你不是真正的快乐.mp3",
+      "name": "没有什么不同",
+      "songUrl": "http://win.web.rb03.sycdn.kuwo.cn/e90312c1a66cc6460de37f114cde41af/57e00eeb/resource/a1/16/83/2174965660.aac",
       "photo": "02.png"
     },{
       "id": 3,
-      "name": "喜欢你",
-      "song": "G.E.M.邓紫棋 - 喜欢你.mp3",
+      "name": "爱的海洋",
+      "songUrl": "http://win.web.rd03.sycdn.kuwo.cn/b6592c934b620e3705b9e8981cb5bfb0/57e00f19/resource/a2/91/20/2002894527.aac",
       "photo": "03.png"
     },{
       "id": 4,
-      "name": "是否",
-      "song": "G.E.M.邓紫棋 - 是否.mp3",
+      "name": "快活",
+      "songUrl": "http://win.web.rb03.sycdn.kuwo.cn/a15bff788e544630dd0aedf247f4dd35/57e00f78/resource/a1/93/23/929408351.aac",
       "photo": "04.png"
     }]
   },
   {
     "singer": "邓紫棋",
-    "song_path": "../music/GEM/",
+    "songUrl_path": "../music/GEM/",
+    "photo_path": "../image/music/GEM/",
+    "music": [{
+      "id": 1,
+      "name": "后会无期",
+      "songUrl": "http://win.web.re03.sycdn.kuwo.cn/ca4c2c6418e88ff3a142ba715c6a7576/57e00fa6/resource/a3/53/19/1087475094.aac",
+      "photo": "01.png"
+    },{
+      "id": 2,
+      "name": "你不是真正的快乐",
+      "songUrl": "http://win.web.rh03.sycdn.kuwo.cn/62c084bc2a5353b6bcdf0134915fa7b9/57e00fce/resource/a1/13/70/2568662868.aac",
+      "photo": "02.png"
+    },{
+      "id": 3,
+      "name": "喜欢你",
+      "songUrl": "http://win.web.re03.sycdn.kuwo.cn/a468642b7612e74ebdc5cfd0fd2eebf7/57e01014/resource/a1/98/46/2628530287.aac",
+      "photo": "03.png"
+    },{
+      "id": 4,
+      "name": "是否",
+      "songUrl": "http://win.web.re03.sycdn.kuwo.cn/2c3e239c5e9aea07566356c1be554f2d/57e01034/resource/a1/68/26/2850041457.aac",
+      "photo": "04.png"
+    }]
+  },
+  {
+    "singer": "邓紫棋",
+    "songUrl_path": "../music/GEM/",
     "photo_path": "../image/music/GEM/",
     "music": [{
       "id": 1,
       "name": "多远都要在一起",
-      "song": "G.E.M.邓紫棋 - 多远都要在一起.mp3",
+      "songUrl": "http://win.web.rh03.sycdn.kuwo.cn/5ffd5b3eac31ca8d4d420ec91b5f85b8/57e0105f/resource/a3/86/42/822835259.aac",
       "photo": "05.png"
     },{
       "id": 2,
       "name": "回忆的沙漏",
-      "song": "G.E.M.邓紫棋 - 回忆的沙漏.mp3",
+      "songUrl": "http://win.web.ra03.sycdn.kuwo.cn/63eda1ecdf8011cdf9ed09b06c4c559c/57e0107e/resource/a1/48/50/23/1469358680.aac",
       "photo": "06.png"
     },{
       "id": 3,
       "name": "来自天堂的魔鬼",
-      "song": "G.E.M.邓紫棋 - 来自天堂的魔鬼.mp3",
+      "songUrl": "http://win.web.rh03.sycdn.kuwo.cn/e7045a887d1834b5666632ac2a792c5e/57e010a1/resource/a2/69/28/1057625543.aac",
       "photo": "07.png"
     },{
       "id": 4,
       "name": "泡沫",
-      "song": "G.E.M.邓紫棋 - 泡沫.mp3",
+      "songUrl": "http://win.web.re03.sycdn.kuwo.cn/117e4e2baf1c1a817f4be31cdd2bea93/57e010be/resource/a1/68/26/2850041457.aac",
       "photo": "08.png"
     }]
   },
   {
     "singer": "薛之谦",
-    "song_path": "../music/薛之谦/",
+    "songUrl_path": "../music/薛之谦/",
     "photo_path": "../image/music/薛之谦/",
     "music": [{
       "id": 1,
       "name": "初学者",
-      "song": "薛之谦 - 初学者.mp3",
+      "songUrl": "http://win.web.rh03.sycdn.kuwo.cn/92848ad4e98e1e645af0fa8cc9c91381/57e010f1/resource/a2/21/19/1454881491.aac",
       "photo": "01.png"
     },{
       "id": 2,
       "name": "认真的雪",
-      "song": "薛之谦 - 认真的雪.mp3",
+      "songUrl": "http://win.web.ra03.sycdn.kuwo.cn/1df0d67b250718c7088da8164b44ee0d/57e01112/resource/a3/48/72/55/4241189160.aac",
       "photo": "02.png"
     },{
       "id": 3,
       "name": "绅士",
-      "song": "薛之谦 - 绅士.mp3",
+      "songUrl": "http://win.web.rf03.sycdn.kuwo.cn/8ab89504721e4c1c468d0d0d981f56f2/57e01137/resource/a3/24/3/396581879.aac",
       "photo": "03.png"
     },{
       "id": 4,
       "name": "几个你",
-      "song": "薛之谦 - 几个你.mp3",
+      "songUrl": "http://win.web.rh03.sycdn.kuwo.cn/d351f64d6b74ad87dccdc3e8e7dd4dcb/57e01157/resource/a3/97/34/205058153.aac",
       "photo": "04.png"
     }]
   },
   {
     "singer": "刘若英",
-    "song_path": "../music/刘若英/",
+    "songUrl_path": "../music/刘若英/",
     "photo_path": "../image/music/刘若英/",
     "music": [{
       "id": 1,
       "name": "当爱在靠近",
-      "song": "刘若英 - 当爱在靠近.mp3",
+      "songUrl": "http://win.web.rh03.sycdn.kuwo.cn/e66c9c4f7ba4f8fda43ddbe57aa65e3c/57e01179/resource/a3/11/58/1869309121.aac",
       "photo": "01.png"
     },{
       "id": 2,
       "name": "为爱痴狂",
-      "song": "刘若英 - 为爱痴狂.mp3",
+      "songUrl": "todotodotodotodotodotodotodotodotodotodotodo",
       "photo": "05.png"
     },{
       "id": 3,
       "name": "很爱很爱你",
-      "song": "刘若英 - 很爱很爱你.mp3",
+      "songUrl": "http://win.web.rh03.sycdn.kuwo.cn/24a3936e308c0a3e7bbfb906cb2ef577/57e01202/resource/a1/24/31/1381345277.aac",
       "photo": "03.png"
     },{
       "id": 4,
       "name": "后来",
-      "song": "刘若英 - 后来.mp3",
+      "songUrl": "http://win.web.rh03.sycdn.kuwo.cn/c9fd87d68fe3be4a81d9da3c0816e549/57e011d1/resource/a3/19/3/1363518000.aac",
       "photo": "04.png"
     }]
   }

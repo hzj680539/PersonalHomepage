@@ -13,6 +13,10 @@
       {
         "name": "MDN",
         "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+      },
+      {
+        "name": "学习CSS布局",
+        "url": "http://zh.learnlayout.com/toc.html"
       }
     ]
   },

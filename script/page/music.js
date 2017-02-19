@@ -9,10 +9,10 @@ define(['jquery', 'common', 'customScrollBar', 'template'],function ($, COMMON, 
         COMMON.PAGE.loadBgImage("repeat");
         loadMusicGridLayout();
         loadMusicBgImageFile();
-        addEventToSlideIcons();
-        setTimeout(function () {
+        // addEventToSlideIcons();
+        /*setTimeout(function () {
             $(".slide-right").removeClass("hide");
-        }, 2500);
+        }, 2500);*/
     }
 
     // load Music file
